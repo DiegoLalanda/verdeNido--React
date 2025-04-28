@@ -12,10 +12,8 @@ Este proyecto, titulado **"Verde Nido"**, es parte del trabajo final integrador 
 
 El proyecto fue desarrollado por:
 
-- **María Soledad Andina**
 - **Fernanda Elola**
 - **Diego Javier Lalanda**
-- **Nahuel Pereyra**
 
 ## Temática y Estética
 
